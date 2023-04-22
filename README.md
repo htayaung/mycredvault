@@ -10,6 +10,8 @@ The idea for this demo is to store credentials in Windows' environment variables
 
 ## Screenshots
 
+https://user-images.githubusercontent.com/13251420/233792958-f27079cb-dd77-4e26-af15-e5fe4b81bf5d.mp4
+
 <p align="center">
   <img src="./assets/01.png" alt="MyCredVault"/>
   <img src="./assets/02.png" alt="MyCredVault"/>
